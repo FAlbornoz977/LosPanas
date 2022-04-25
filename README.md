@@ -1,3 +1,1 @@
 # LosPanas
-
-Hola.
